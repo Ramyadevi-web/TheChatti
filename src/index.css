@@ -1,0 +1,11 @@
+.home-page{
+  background-color: rgb(116, 27, 27);
+  color: white;
+  height: 100vh;
+}
+
+html,body,#root{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
