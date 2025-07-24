@@ -1,5 +1,7 @@
 [[redirects]]
   from = "/*"
-  to = "https://www.chattinewyork.com"
+  to = "https://www.chattinewyork.com/:splat"
   status = 301
   force = true
+
+
